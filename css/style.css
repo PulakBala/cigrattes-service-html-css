@@ -64,7 +64,7 @@ a{
 }
 /* hero section */
 #hero {
-    background-image: url(/images/pexels-photo-3614929.jfif);
+    background-image: url(../images/pexels-photo-3614929.jfif);
     background-size: cover;
     background-position: top center;
     position: relative;
